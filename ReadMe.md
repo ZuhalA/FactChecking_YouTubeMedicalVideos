@@ -1,5 +1,5 @@
 # Detecting YouTube Medical Misinformation
-*A Retrieval-Augmented Generation (RAG) Project Using LLMs*
+**A Retrieval-Augmented Generation (RAG) Project Using LLMs**
 
 This project uses a large language model to identify and evaluate **medical or health-related claims** made in YouTube videos, based on evidence from credible sources.
 
