@@ -50,4 +50,4 @@ This project uses a large language model to identify and evaluate **medical or h
 
 ## Final Note
 
-This is an experimental tool designed to explore how retrieval + generation can be used in real-world misinformation detection. It’s not intended to replace medical advice — always consult with a healthcare professional for reliable health decisions.
+This is an experimental tool designed to explore how retrieval + generation can be used in real-world misinformation detection. ANd it is not intended to replace medical advice by professionals.
